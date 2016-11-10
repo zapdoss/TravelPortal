@@ -1,0 +1,20 @@
+Jaipur Delhi
+sort price ascending
+sort time descending
+buy cheapest
+buy earliest
+Guwahati Hyderabad
+sort duration
+buy latest
+buy cheapest
+Jaipur Delhi
+sort price descending
+Bangalore Hyderabad
+sort price
+buy cheapest Airline5033_a
+buy earliest Airline5020_a
+buy fastest 5525b
+sort time ascending
+buy cheapest GoldenEagle5512
+buy latest Airline5007-a
+buy earliest 5046_b
